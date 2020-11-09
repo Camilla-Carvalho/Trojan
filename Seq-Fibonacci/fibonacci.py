@@ -14,4 +14,4 @@ def fibonacci_par(num):
 
 
 if __name__ == '__main__':
-    print(fibo(4500))
+    print(fibonacci_par(4500))
