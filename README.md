@@ -1,6 +1,4 @@
-# Hello, World 
- My first versioned repository
+# Hi! This is my first repository
 
-(Created during a live class)
+Trojan designed to access a computer remotely over an internal network.
 
-Line adedded  directly from the site .
