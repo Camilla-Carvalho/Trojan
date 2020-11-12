@@ -3,8 +3,8 @@ import subprocess
 import sys
 import os
 
-ip = '192.168.1.37 '
-port = 443
+ip = '192.168.1.37 ' # endereço onde o ip será conectado 
+port = 443 
 
 
 def connenct(ip, port):
